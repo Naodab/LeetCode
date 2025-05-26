@@ -6,4 +6,4 @@
 [4. Median Of Two Sorted Arrays (Hard)](Median_Of_Two_Sorted_Arrays/README.md)  
 [5. Longest Palindromic Substring (Med)](Longest_Palindromic_Substring/README.md)  
 [6. ZigZag Conversion (Med)](ZigZag_Conversion/README.md)  
-[7. Reverse Integer (Med)](Reverse Integer/README.md)  
+[7. Reverse Integer (Med)](Reverse_Integer/README.md)  
