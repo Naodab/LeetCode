@@ -7,3 +7,4 @@
 [5. Longest Palindromic Substring (Med)](Longest_Palindromic_Substring/README.md)  
 [6. ZigZag Conversion (Med)](ZigZag_Conversion/README.md)  
 [7. Reverse Integer (Med)](Reverse_Integer/README.md)  
+[8. String To Integer (Med)](String_To_Integer/README.md)  
